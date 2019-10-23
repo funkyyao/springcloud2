@@ -12,4 +12,9 @@ public class ShawnApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ShawnApplication.class, args);
 	}
+	
+	
+	public void setName() {
+		
+	}
 }
